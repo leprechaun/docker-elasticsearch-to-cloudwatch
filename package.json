@@ -1,0 +1,8 @@
+{
+	"name": "elasticsearch-to-cloudwatch",
+	"version": "0.0.1",
+	"dependencies": {
+		"elasticsearch": "latest",
+		"cloudwatch-buddy": "latest"
+	}
+}
